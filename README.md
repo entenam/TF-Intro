@@ -17,6 +17,12 @@
 - Demonstrate How to Save Checkpoints While Training and Load Checkpoints Later Avoiding Training to Save Time and Resources
 - The Code Can be Executed Directly in Google CoLab
 
+# Cat-v-DogsDataAugmentationCNNFilteredDataset.ipynb
+
+- Filtered Dataset (2000 Training/ 1000 Testing) Dataset of Kaggle Cat-v-Dogs
+- CNN with Data Augmentation
+- Use of ImageDataGenerator
+
 # Cat-v-DogsDataAugmentationCNN.ipynb
 - Download Full Kaggle Cat-v-Dogs Images as PetImages Folder in Google Drive
 - Split the images into 'Training' vs 'Testing' at 90-10 ration
