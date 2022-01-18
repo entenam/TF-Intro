@@ -22,6 +22,7 @@
 - Filtered Dataset (2000 Training/ 1000 Testing) Dataset of Kaggle Cat-v-Dogs
 - CNN with Data Augmentation
 - Use of ImageDataGenerator
+- Visualisation of intermediate representations for all layers
 
 # Cat-v-DogsDataAugmentationCNN.ipynb
 - Download Full Kaggle Cat-v-Dogs Images as PetImages Folder in Google Drive
