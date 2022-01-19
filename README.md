@@ -30,3 +30,8 @@
 - CNN with 4 Convolution layer
 - Data Augmentation with ImageDataGenerator
 - Save and Load Model Checkpoint in or from Google Drive
+
+# CatsVDogsTrLearning.ipynb
+- Retrain Inception V3
+- Use the full dataset loaded into Google Drive in Cat-v-DogsDataAugmentationCNN.ipynb
+- Achieved Training and Validation Accuracy Around 95%
