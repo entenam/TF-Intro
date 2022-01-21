@@ -35,3 +35,6 @@
 - Retrain Inception V3
 - Use the full dataset loaded into Google Drive in Cat-v-DogsDataAugmentationCNN.ipynb
 - Achieved Training and Validation Accuracy Around 95%
+
+# Horse_v_HumanTrLearning.ipynb
+
