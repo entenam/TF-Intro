@@ -40,3 +40,5 @@
 
 # RPSMulticlass.ipynb
 
+# SLDMultiClassfication.ipynb
+
