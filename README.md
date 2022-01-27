@@ -42,3 +42,7 @@
 
 # SLDMultiClassfication.ipynb
 
+# SequencingSarcasmDS.ipynb
+- Sarcasm in News Headlines Dataset by Rishabh Misra (https://rishabhmisra.github.io/publications/)
+- Use Tokenizer and pad_sequences class to sequence this dataset
+
