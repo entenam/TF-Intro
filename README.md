@@ -46,3 +46,7 @@
 - Sarcasm in News Headlines Dataset by Rishabh Misra (https://rishabhmisra.github.io/publications/)
 - Use Tokenizer and pad_sequences class to sequence this dataset
 
+# BBCArchiveExploration.ipynb
+- BBC Text Archive Dataset (http://mlg.ucd.ie/datasets/bbc.html) comes as CSV file
+- Sequence Lables (Category) and Sentence (Text News)
+- Remove Stop Words
