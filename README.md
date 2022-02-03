@@ -50,3 +50,13 @@
 - BBC Text Archive Dataset (http://mlg.ucd.ie/datasets/bbc.html) comes as CSV file
 - Sequence Lables (Category) and Sentence (Text News)
 - Remove Stop Words
+
+# SarcasmClassification.ipynb
+- Download Sarcasm Dataset in JSON format in Google Drive
+- Splitting Data into Training and Testing
+- Tokenization, Sequencing and Padding
+- Binary Classification with a Sequential Model
+- Save and load the model in 'H5' format in Google Drive
+- Plot Training/Validation Accuracy and Loss
+- Save the word and embeddings weights meta.tsv and vecs.tsv respectively
+- Visualise the classification using projector.tensorflow.org
