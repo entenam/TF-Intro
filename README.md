@@ -60,3 +60,12 @@
 - Plot Training/Validation Accuracy and Loss
 - Save the word and embeddings weights meta.tsv and vecs.tsv respectively
 - Visualise the classification using projector.tensorflow.org
+
+# imdbSubwordTokenizerClassfication.ipynb
+- Download IMDB Tokenized Subword Dataset from Tensorflow Datasets
+- Test the tokenization
+- Binary Classification with a Sequential Model
+- Save and load the model in 'H5' format in Google Drive
+- Plot Training/Validation Accuracy and Loss
+- Save the word and embeddings weights meta.tsv and vecs.tsv respectively
+- Visualise the classification using projector.tensorflow.org
